@@ -57,7 +57,7 @@ class FirstViewController: UIViewController, UIPickerViewDataSource, UIPickerVie
         print("Pushing")
         print("Avoid reject push request")
         print("write down from git hub")
-        print("Add more row")
+        print("123")
 
     }
 
