@@ -53,6 +53,7 @@ class FirstViewController: UIViewController, UIPickerViewDataSource, UIPickerVie
         // Do any additional setup after loading the view, typically from a nib.
         ActivityManager.activities.append(Activity(activityName: "Running", totalTime: 0))
         print("Git featureC")
+        let a = 0
 
     }
 
