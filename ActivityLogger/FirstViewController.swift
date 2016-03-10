@@ -54,6 +54,7 @@ class FirstViewController: UIViewController, UIPickerViewDataSource, UIPickerVie
         ActivityManager.activities.append(Activity(activityName: "Running", totalTime: 0))
         print("Pulling into branch featureA")
 
+
     }
 
     func processTimer()
