@@ -54,7 +54,8 @@ class FirstViewController: UIViewController, UIPickerViewDataSource, UIPickerVie
         ActivityManager.activities.append(Activity(activityName: "Running", totalTime: 0))
         print("Add")
         print("Commit")
-        print("Push")
+        print("Pushing")
+        
     }
 
     func processTimer()
