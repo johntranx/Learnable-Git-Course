@@ -52,12 +52,7 @@ class FirstViewController: UIViewController, UIPickerViewDataSource, UIPickerVie
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         ActivityManager.activities.append(Activity(activityName: "Running", totalTime: 0))
-        print("Add")
-        print("Commit")
-        print("Pushing")
-        print("Avoid reject push request")
-        print("write down from git hub")
-        print("123")
+        print("Git featureC")
 
     }
 
