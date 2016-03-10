@@ -56,6 +56,7 @@ class FirstViewController: UIViewController, UIPickerViewDataSource, UIPickerVie
         print("Commit")
         print("Pushing")
         print("Avoid reject push request")
+        print("write down from git hub")
     }
 
     func processTimer()
