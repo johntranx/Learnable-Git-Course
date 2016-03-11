@@ -51,6 +51,7 @@ class FirstViewController: UIViewController, UIPickerViewDataSource, UIPickerVie
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
         ActivityManager.activities.append(Activity(activityName: "Running", totalTime: 0))
 
     }
